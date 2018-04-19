@@ -1,0 +1,4 @@
+D:\github\PrismTEST\CommonPublic\bin\Release\CommonPublic.dll
+D:\github\PrismTEST\CommonPublic\bin\Release\CommonPublic.pdb
+D:\github\PrismTEST\CommonPublic\obj\Release\CommonPublic.dll
+D:\github\PrismTEST\CommonPublic\obj\Release\CommonPublic.pdb
