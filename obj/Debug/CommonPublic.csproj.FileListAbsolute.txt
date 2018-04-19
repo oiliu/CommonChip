@@ -1,5 +1,0 @@
-D:\github\PrismTEST\CommonPublic\bin\Debug\CommonPublic.dll
-D:\github\PrismTEST\CommonPublic\bin\Debug\CommonPublic.pdb
-D:\github\PrismTEST\CommonPublic\bin\Debug\protobuf-net.dll
-D:\github\PrismTEST\CommonPublic\obj\Debug\CommonPublic.dll
-D:\github\PrismTEST\CommonPublic\obj\Debug\CommonPublic.pdb
